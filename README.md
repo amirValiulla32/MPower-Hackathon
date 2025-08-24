@@ -1,2 +1,21 @@
-# MPower Hackathon
-We created a presentation based on the data we explored during the sprint. In just 10 hours, our team applied geospatial distance analysis and predicted language preference models to demonstrate how combining enriched data sources with statistical methods can reveal hidden patterns. The challenge pushed us to quickly clean, analyze, and visualize complex datasets under time pressure, sharpening our skills in data science and rapid prototyping.
+🚀 MPower Hackathon
+
+We built a data-driven presentation during the MPower Hackathon, completed in just 10 hours of rapid sprinting.
+
+🔎 What We Did
+
+Explored and enriched a large dataset under time constraints.
+
+Applied geospatial distance analysis to uncover location-based insights.
+
+Implemented predicted language preference models to enhance understanding of the data.
+
+Combined enriched data sources with statistical methods to reveal hidden patterns.
+
+⚡ Impact
+
+Showcased how fast prototyping can turn raw data into meaningful insights.
+
+Strengthened our team’s skills in data science, visualization, and rapid analysis.
+
+Demonstrated the importance of cleaning, modeling, and presenting data effectively under pressure.
